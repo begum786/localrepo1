@@ -1,2 +1,3 @@
 might be deleted
-2nd line it is 
+2nd line it is
+3rd line added for stash example 
