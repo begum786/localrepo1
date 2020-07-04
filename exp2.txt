@@ -1,0 +1,1 @@
+This is exapmle foe merger conflict in master branch
